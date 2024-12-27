@@ -1,7 +1,9 @@
 ### Potential_Function
 
 #### Group Member
+
 1.Syma Afsha
+
 2. Mir Mohibullah Sazid
 
 The lab has been divided into two parts. 
